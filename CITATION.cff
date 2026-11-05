@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article."
+title: "Auditing Label Conflicts, Evaluation Protocols, and Data Splitting in Deep Learning for Oral Cancer Histopathology: data and code"
+authors:
+  - family-names: Amien
+    given-names: Ferli Malkan
+    orcid: "https://orcid.org/0009-0002-7126-5420"
+  - family-names: Fatichah
+    given-names: Chastine
+    orcid: "https://orcid.org/0000-0002-7348-9762"
+  - family-names: Yuniarti
+    given-names: Anny
+    orcid: "https://orcid.org/0000-0002-3234-4591"
+license: [CC-BY-4.0, MIT]
